@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "A brief description of Project One.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://github.com/username/project-one",
+      "liveDemo": "https://username.github.io/project-one"
+    },
+    {
+      "title": "Project Two",
+      "description": "A brief description of Project Two.",
+      "technologies": ["React", "Node.js"],
+      "link": "https://github.com/username/project-two",
+      "liveDemo": "https://username.github.io/project-two"
+    },
+    {
+      "title": "Project Three",
+      "description": "A brief description of Project Three.",
+      "technologies": ["Python", "Flask"],
+      "link": "https://github.com/username/project-three",
+      "liveDemo": "https://username.github.io/project-three"
+    },
+    {
+      "title": "Project Four",
+      "description": "A brief description of Project Four.",
+      "technologies": ["Java", "Spring Boot"],
+      "link": "https://github.com/username/project-four",
+      "liveDemo": "https://username.github.io/project-four"
+    },
+    {
+      "title": "Project Five",
+      "description": "A brief description of Project Five.",
+      "technologies": ["PHP", "Laravel"],
+      "link": "https://github.com/username/project-five",
+      "liveDemo": "https://username.github.io/project-five"
+    },
+    {
+      "title": "Project Six",
+      "description": "A brief description of Project Six.",
+      "technologies": ["Vue.js", "Firebase"],
+      "link": "https://github.com/username/project-six",
+      "liveDemo": "https://username.github.io/project-six"
+    }
+  ]
+}
